@@ -7,12 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+One of our group members works part time at a local independently-owned
+coffee shop, and she mentioned that their current inventory system has
+a vast amount of room for improvement. Our goal is to automate as much 
+of their ordering as possible by building in logic that will trigger push 
+notifications of reminders to re-order items any time that the inventory
+is updated. 
 ### Features
-Include Features here
+- User authentication (and potentially authorization - re: owner and employee
+level accounts)
+- CRUD inventory system linked to API
+- Search/view results
+- Push notifications to remind to reorder (potentially send a cart that is
+pre-populated with items/quantities to be ordered)
 ### Technologies
-Include Technologies here
+- JavaScript
+- AngularJS
+- API for inventory items
+- Java
+- Spring Boot
+- MySQL/other database
 ### What I'll Have to Learn
-Include what you will need to learn here
+- How to connect Spring Boot and AngularJS
+- How to use data from API alongside user input information 
+- Responsive web-design
+- How to create push notifications
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/YawwUMVa/ATTI04b7360531707900392eac567633690739B755EE/liftoff-group-project-trello
+
